@@ -1,0 +1,15 @@
+body {
+    margin: 1cm;
+}
+
+ul.ok {
+    
+    background-image: url("GIT.png" );
+    background-position: 0 100%;
+	background-size: 1.3rem ;
+	background-repeat: repeat-y;
+    padding-left: 2rem;
+}
+ 
+
+

@@ -1,0 +1,18 @@
+
+table{
+    width: 50%
+    height auto;
+    border: 4px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-family: Verdana;
+}
+
+th{
+    background-color: blanchedalmond;
+}
+
+
+.colum  th{
+    background-image: url(fondo_gris.gif);
+}
